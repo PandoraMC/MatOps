@@ -1,0 +1,9 @@
+#Object Files
+*.o
+#App compilation
+App
+#Assembly files
+*.s
+#Preprocessor files
+*.i
+
